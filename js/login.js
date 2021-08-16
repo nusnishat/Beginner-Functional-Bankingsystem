@@ -8,4 +8,8 @@ document.getElementById('login-submit').addEventListener('click',function(){
     {
         window.location.href ='banking.html';
     }
+    else
+    {
+        alert("Email:nishat@gmail.com,Password:nishat");
+    }
 })
